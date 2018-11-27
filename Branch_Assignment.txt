@@ -1,0 +1,44 @@
+$ git init
+
+$ git status
+
+$ git add first.txt
+
+$ git commit -m "first file"
+
+$ git status
+
+$ git mv first.txt rename_first.txt
+
+$ git status
+
+$ git checkout branch1
+
+$ git commit -am "renamed file"
+
+$ git branch branch1
+
+$ git checkout branch1
+
+$ git branch
+
+$ git diff master branch1
+
+$ git add rename_first.txt
+
+$ git commit -m "3rd commit"
+
+$ git log
+
+$ git checkout master
+
+$ git branch
+
+$ git merge branch1
+
+$ git log
+
+ 
+
+
+
