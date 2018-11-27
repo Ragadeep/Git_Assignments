@@ -1,5 +1,0 @@
-This is my first file in git assignment
-
-added 2nd line content
-
-3rd time modified
